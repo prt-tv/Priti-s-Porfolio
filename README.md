@@ -23,12 +23,9 @@ Some of the key cleaning techniques applied in the SQL script (`Data Cleaning.sq
 
 - Eliminating duplicates using `DISTINCT` or `ROW_NUMBER()`  
 - Replacing NULLs with default or calculated values using `COALESCE()`  
-- Formatting dates consistently with functions like `TO_DATE()` or `CAST()`  
+- Formatting dates consistently with functions like `TO_DATE()`
 - Standardizing text data (e.g., trimming spaces, converting to uppercase/lowercase)  
 
-## How to Use
-
-To reproduce the cleaning process, run the `Data Cleaning.sql` script in your preferred SQL environment on the raw layoffs dataset.
 
 ## Results
 
