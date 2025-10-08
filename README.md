@@ -33,7 +33,9 @@ To reproduce the cleaning process, run the `Data Cleaning.sql` script in your pr
 ## Results
 
 The cleaned dataset is now ready for further analysis or visualization, ensuring consistent and reliable insights.
-[Cleaned Data Output](images/cleaned_data.png)
+## Screenshot of Query Result
+
+![Layoffs Cleaning Query Result](Layoffs%20Cleaning%20query%20result%20182456.png)
 
 ## Learnings
 
