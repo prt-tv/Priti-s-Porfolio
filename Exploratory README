@@ -36,7 +36,11 @@ Key SQL operations performed include:
 ## Results
 
 *(Provide a summary of the insights gained from the EDA.)*
+## Exploratory Data Analysis Screenshot
 
+Here is a screenshot showing the results of the exploratory SQL query on layoffs by industry:
+
+![Exploratory Query Result](Screenshot%202025-10-08%20185135.png)
 
 ## Learnings
 
